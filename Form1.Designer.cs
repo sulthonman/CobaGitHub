@@ -47,9 +47,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(325, 51);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 16);
+            this.label1.Size = new System.Drawing.Size(119, 16);
             this.label1.TabIndex = 1;
-            this.label1.Text = "hon dan Nanda";
+            this.label1.Text = "sulthon dan Nanda";
             // 
             // Form1
             // 
